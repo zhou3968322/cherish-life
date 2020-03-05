@@ -1,0 +1,7 @@
+《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社；
+《计算机组成与系统结构》（2011年印刷），袁春风，清华大学出版社；
+《操作系统教程（第5版）》，费翔林，骆斌编著，高等教育出版社；
+《计算机网络——自顶向下方法 (6th)》。James F. Kurose, Keith W. Ross编著。机械工业出版社 
+复试参考书目:
+《离散数学及其应用（原书第六版）》，Kenneth Rosen著，中文版，机械工业出版社。
+《编译原理》，赵建华、郑滔、戴新宇译，机械工业出版社出版；对应英文版为《Compilers: Principles, Techniques and Tools: 2nd Edition》，Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman著。《程序设计教程（用C++语言编程）》，陈家骏、郑滔编著，机械工业出版社。
